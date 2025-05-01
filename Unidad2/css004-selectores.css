@@ -1,0 +1,20 @@
+/* Párrafos dentro de divs en verde */
+div p {
+    color: green;
+}
+
+/* List items hijos directos de ul en rojo */
+ul > li {
+    color: red;
+}
+
+/* Enlaces al pasar el mouse */
+a:hover {
+    color: blue;
+    font-size: larger;
+}
+
+/* Inputs de tipo texto con borde grueso */
+input[type="text"] {
+    border: 5px solid;
+}

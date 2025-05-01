@@ -1,0 +1,39 @@
+body {
+    height: 2000px; /* Para demostrar fixed y absolute */
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+div {
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.statico {
+    position: static;
+    background-color: gray;
+}
+
+.relativo {
+    position: relative;
+    left: 30px;
+    top: 10px;
+    background-color: green;
+}
+
+.absoluto {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    background-color: blue;
+}
+
+.fijo {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: red;
+}
