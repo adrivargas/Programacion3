@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo Imagen</title>
+</head>
+<body>
+    <img src="https://m.cuantarazon.com/1216327/memes-dolorosamente-familiares-sobre-programacion">
+    <img src="./static/img/meme2.jpg" alt="gato" width="200" height="200">
+</body>
+</html>
