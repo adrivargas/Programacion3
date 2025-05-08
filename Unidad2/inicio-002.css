@@ -1,0 +1,93 @@
+/* Estilos básicos del curso */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Encabezado */
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+/* Sección de introducción */
+.introduccion {
+    text-align: center;
+    padding: 20px;
+}
+
+.introduccion img {
+    margin-bottom: 20px;
+}
+
+/* Contenido del curso */
+.contenido-curso {
+    padding: 20px;
+    background-color: white;
+    margin: 0 15%;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contenido-curso p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.contenido-curso ol {
+    padding-left: 20px;
+}
+
+.contenido-curso a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.contenido-curso a:hover {
+    text-decoration: underline;
+}
+
+/* Tabla de lenguajes */
+.tabla-lenguajes {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.tabla-lenguajes th,
+.tabla-lenguajes td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+.tabla-lenguajes th {
+    background-color: #007bff;
+    color: white;
+}
+
+.tabla-lenguajes tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Estilo del pie de página */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    font-size: 0.9em;
+}
+
+footer em {
+    color: #555;
+}

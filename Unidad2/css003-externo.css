@@ -1,0 +1,19 @@
+
+h1 {
+    color: #0044cc; 
+    text-align: center; 
+    font-size: 32px;  
+    font-family: 'Arial', sans-serif; 
+}
+
+
+p {
+    color: #333;  
+    font-size: 18px;  
+}
+
+
+a {
+    color: red; 
+}
+

@@ -1,0 +1,15 @@
+.texto {
+    color: green;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.texto2 {
+    color: navy;
+    font-style: italic;
+}
+
+.texto3 {
+    color: purple;
+    text-decoration: underline;
+}

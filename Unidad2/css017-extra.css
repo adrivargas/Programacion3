@@ -1,0 +1,7 @@
+.overflow {
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    border-radius: 50%; /* hace el div un círculo */
+    overflow: hidden;
+}

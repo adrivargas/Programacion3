@@ -1,0 +1,17 @@
+div p {
+    color: green;
+}
+
+li {
+    color: red;
+}
+
+
+a:hover {
+    color: blue;
+    font-size: larger;
+}
+
+input[type="text"] {
+    border: 5px solid black;
+}
